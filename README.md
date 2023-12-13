@@ -34,6 +34,6 @@ Additional analysis may be performed to predict the likelihood of a driver accep
 
 Additional behavioral and demographic data may help in targeting the right audience.
 
-Jupyter notebook located at [a link](https://github.com/sundar-subramanian/sundar-subramanian.github.io/blob/main/MLAI/5_1_customers_and_coupons_ss.ipynb)
+Jupyter notebook located at [https://github.com/sundar-subramanian/sundar-subramanian.github.io/blob/main/MLAI/5_1_customers_and_coupons_ss.ipynb](https://github.com/sundar-subramanian/sundar-subramanian.github.io/blob/main/MLAI/5_1_customers_and_coupons_ss.ipynb)
 
  
